@@ -1,0 +1,23 @@
+.heading{
+    color:rgb(69, 117, 20);
+    
+}
+.container{
+    display : flex;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+
+}
+.card{
+    width: 15rem;
+    border-radius: .5rem;
+    box-shadow: .35rem .35rem .5rem #cccccc91;
+    padding: 1rem;
+    margin: 1rem;
+}
+
+.img{
+    width: 15rem;
+    border-radius: .25rem;
+    background-color: beige;
+}
